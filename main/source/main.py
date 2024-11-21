@@ -1,5 +1,4 @@
 # IMPORTS
-import time
-from time import sleep
+from imports import *
 
 print("Welcome to CosmicCommerce")
